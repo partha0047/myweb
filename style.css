@@ -1,0 +1,152 @@
+body
+{
+margin: auto;
+text-align: center;
+
+}
+
+.sun{
+
+height: 200px;
+width: 200px;
+
+
+}
+.cloud{
+
+    height:150px;
+    width:150px;
+    position: relative;
+    right:150px;
+    
+}
+.top{
+
+    background-color:#ccc9d1;
+    color: grey;
+    text-align :center;
+     font-family: 'Sacramento', cursive;
+     padding-bottom:50px; 
+     
+    
+ }
+
+
+
+.middle
+{
+
+    background-color:#EAF6F6;
+    padding-top:50px; 
+    font-family: 'Montez', cursive;
+   margin-top:10px; 
+    text-align: center;
+    font-size: 27px;
+    color:rgb(15, 88, 21);
+    padding-bottom:50px ;
+    
+   
+   
+}
+.skills{
+    color: grey;
+  
+    background-color:#EAF6F6;
+   
+   font-family: 'Kosugi Maru', sans-serif;
+   position: relative;
+   bottom:30px;
+     
+}
+.code{
+
+    
+    width:25%;
+    float: left;
+   margin-right:30px; 
+}
+.football{
+    width:25%;
+    float: left;
+    margin-right:30px;
+     
+}
+
+    
+
+.cook{
+    width:25%;
+    float: left;
+    margin-right:30px; 
+}
+
+.music{
+
+    width:25%;
+    float:left;
+    margin-right:30px; 
+}
+
+.footer{
+
+    background-color: #ffbea3;
+    
+    
+}
+
+.head-name{
+
+    font-size: 90px;
+    padding-top:100px; 
+}
+
+.desc{
+
+    font-size:27px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.partha{
+
+    border-radius: 100px;
+}
+
+.skill-row{
+  
+    margin: 50px auto 90px auto;
+    width: 50%;
+    text-align:left;
+    line-height: 1.5;
+    font-size: 1.2rem;
+    color:rgb(15, 88, 21);}
+    
+.hd {
+
+    font-size:3rem;
+    padding-top:50px ;
+}
+
+.btn{
+
+    text-align: center;
+    
+}
+.footer{
+
+    font-family: 'Kosugi Maru', sans-serif;
+    font-size:1rem;
+    height: auto;
+    position: relative;
+    bottom: 30px;
+}
+   
+a:hover{
+    color:green;
+}
+
+   .wrapper{
+
+    position: relative;
+    bottom: 50px;
+   height: auto;
+}
