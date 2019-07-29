@@ -17,7 +17,7 @@ width: 200px;
     height:150px;
     width:150px;
     position: relative;
-    right:150px;
+    right:100px;
     
 }
 .top{
@@ -150,3 +150,16 @@ a:hover{
     bottom: 50px;
    height: auto;
 }
+
+.home{
+    height:300px;
+    width:300px;
+}
+
+
+
+
+
+
+
+
